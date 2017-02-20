@@ -1,0 +1,636 @@
+.cal_Theme1 .ajax__calendar_container   {
+    background-color: #e2e2e2; 
+    border:solid 1px #cccccc;
+}
+
+.cal_Theme1 .ajax__calendar_header  {
+    background-color: #ffffff; 
+    margin-bottom: 4px;
+}
+
+.cal_Theme1 .ajax__calendar_title,
+.cal_Theme1 .ajax__calendar_next,
+.cal_Theme1 .ajax__calendar_prev    {
+    color: #004080; 
+    padding-top: 3px;
+}
+
+.cal_Theme1 .ajax__calendar_body    {
+    background-color: #e9e9e9; 
+    border: solid 1px #cccccc;
+}
+
+.cal_Theme1 .ajax__calendar_dayname {
+    text-align:center; 
+    font-weight:bold; 
+    margin-bottom: 4px; 
+    margin-top: 2px;
+}
+
+.cal_Theme1 .ajax__calendar_day {
+    text-align:center;
+}
+
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_day,
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_month,
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_year,
+.cal_Theme1 .ajax__calendar_active  {
+    color: #004080; 
+    font-weight: bold; 
+    background-color: #ffffff;
+}
+
+.cal_Theme1 .ajax__calendar_today   {
+    font-weight:bold;
+}
+
+.cal_Theme1 .ajax__calendar_other,
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_today,
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_title {
+    color: #bbbbbb;
+}
+
+
+        
+.modalBackground {
+	background-color:gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+}
+
+.button
+{
+	border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    padding: 5px;
+    color: #FFFFFF;
+	    font-size: 12px;
+	    font-family: Calibri;
+	    text-decoration: none;
+	    vertical-align: middle;
+	    border-radius: 8px;
+	    -moz-border-radius: 8px;
+	    -webkit-border-radius: 8px;
+	    background-color: #017DC7;
+	margin-top: 0;
+    }
+   
+      .button1
+{
+	padding: 5px 5px;
+	color: #FFFFFF;
+	font-size: 10px;
+	font-family: Calibri;
+	text-decoration: none;
+	vertical-align: middle;
+	border: none;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	background-color: #999999;
+}
+   
+.button_desactivado
+{
+	border-style: none;
+	border-color: inherit;
+	border-width: medium;
+	padding: 5px;
+	color:ButtonShadow;
+	font-size: 12px;
+	font-family: Calibri;
+	text-decoration: none;
+	vertical-align: middle;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	background-color: #999999;
+	height: 28px;
+}
+   
+.button:hover
+{
+	color: #BEE7FB;
+	cursor: hand;
+	/*text-decoration: underline;*/
+}
+.button:active 
+{
+	color: #CC3300;
+}
+   
+   
+.boton
+{
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Calibri;
+	background-color: #CCCCCC;
+	font-weight: bold;
+}
+   
+.boton:hover
+{
+	color: #FFFF80;
+	cursor: hand;
+}
+.boton:active 
+{
+	color: #CC3300;
+}
+
+.LabelCabeceraGrilla
+{
+	text-align: center;
+	color: #292929;
+	font-size: 12px;
+	font-family: Calibri;
+	font-weight: bold;
+}
+
+.selectable
+{
+	font-weight: normal;
+	font-size: 11px;
+	color: #3333ff;
+	line-height: normal;
+	font-style: normal;
+	font-family: Calibri;
+	background-color: #FFFFFF;
+}
+.selectabe a:link {
+   color: White;
+}
+.selectabe a:hover   {
+    color: #990000; 
+}
+
+.selectableAlt
+{
+	font-weight: normal;
+	font-size: 11px;
+	color: #3333ff;
+	line-height: normal;
+	font-style: normal;
+	font-family: Calibri;
+	background-color: #F7F2FF;
+}
+
+.formatUltcell
+{
+	font-weight: normal;
+	font-size: 11px;
+	color: #666666;
+	line-height: normal;
+	font-style: normal;
+	font-family: Calibri;
+	background-color: #FFFFFF;
+    margin-top: 0;
+}
+
+
+.formatUltcell a:link
+{
+	color: #0000CC;
+}
+.formatUltcell a:hover
+{
+	background-position: inherit center;
+	color: #FF0000;
+	background-color: #FFFFFF;
+	height: 2px;
+}
+
+.formatUltcellAlt
+{
+	font-weight: normal;
+	font-size: 11px;
+	color: #666666;
+	line-height: normal;
+	font-style: normal;
+	font-family: Calibri;
+	background-color: #F7F2FF;
+}
+
+.formatUltcellAlt a:link   {
+   color: #0000CC;
+}
+.formatUltcellAlt a:hover
+{
+	background-position: inherit center;
+	background-color: #FFFFFF;
+	background-color: #F7F2FF;
+	height: 2px;
+	color: #FF0000;
+	
+}
+
+.clicktable
+{
+	font-weight: normal;
+	font-size: 11px;
+	cursor: hand;
+	color: white;
+	line-height: normal;
+	font-style: normal;
+	font-family: Calibri;
+	background-color: #666666;	
+}
+
+.clicktableAlt
+{
+	font-weight: normal;
+	font-size: 11px;
+	cursor: hand;
+	color: white;
+	line-height: normal;
+	font-style: normal;
+	font-family: Calibri;
+	background-color: #666666;
+}
+
+.Noclicktable
+{
+	font-weight: normal;
+	font-size: 11px;
+	cursor: hand;
+	color: black;
+	line-height: normal;
+	font-style: normal;
+	font-family: Calibri;
+	background-color: white;
+}
+
+.clicktable a:link
+{
+	font-weight: normal;
+	font-size: 12px;
+	cursor: hand;
+	color: white;
+	line-height: normal;
+	font-style: normal;
+	font-family: Calibri;
+	background-color: #666666;
+}
+
+.Contenido
+{
+	border-bottom: solid 1px #666666;
+	border-right: solid 1px #666666;
+	border-left: solid 1px #666666;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #666666;
+	background-color: #F3F2F1;
+}
+
+.Cabecera
+{
+	border: 1px solid #666666;
+    background-color: #F3F2F1;
+	font-size: 12px;
+	font-family: Calibri;
+	color: #333333;
+    width: 1199px;
+}
+
+.ContenidoGral
+{
+	border-bottom: solid 1px #666666;
+	border-right: solid 1px #666666;
+	border-left: solid 1px #666666;
+	background-color: #D3D3D3;
+	background-image: url(Imagenes/degrade.jpg);
+	background-repeat: repeat-x;
+}
+
+.cabeceraGral
+{
+    background-image: url(Imagenes/patronTitulo.gif);
+    height: 32px;
+    border-top: solid 1px #666666;
+    border-right: solid 1px #666666;
+    border-left: solid 1px #666666;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #666666;
+}
+
+
+
+.Titulos
+{/*
+    color: #000000;
+    font-family: Calibri;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 6px 0 6px 6px;
+    text-transform: uppercase;
+    */
+    color: #333333;
+	font-family: "Trebuchet MS", "Lucida Grande", "Bitstream Vera Sans", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	margin: 3px 3px 3px 3px;
+	text-transform: uppercase;
+}
+.Titulos_Negro
+{
+	color: 	#000000;
+	font-family: Calibri;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 6px 0 6px 6px;
+}
+
+
+s_Negro
+{
+	color: 	#000000;
+	font-family: Calibri;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 6px 0 6px 6px;
+}
+
+
+.SubTitulos
+{
+    color: #FF0000;
+    font-family: "Trebuchet MS" , "Lucida Grande" , "Bitstream Vera Sans" , Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 3px 3px 3px 3px;
+}   
+
+/*
+.Label 
+{
+	color: #005797;
+	font-weight: bold;
+	text-indent: 6px;
+	margin-top: 6px;
+    font-style: normal;
+    font-variant: normal;
+    font-size: 12px;
+    line-height: normal;
+    font-family: Calibri;
+    text-align: left;
+}
+*/
+
+.Label {
+	font:12px Calibri;
+	color: #005797;
+	/*font-weight: bold;*/
+	text-indent: 6px;
+	margin-top: 6px;
+    text-align: left;
+}
+
+.Contenidos
+{
+	background-position: center center;
+	font: 12px Calibri;
+	color: #005797;
+	font-weight: bold;
+	text-indent: 6px;
+	margin-top: 6px;
+	background-image: url('../Imagenes/Barras/background copy.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.clsTxt {
+	font: 12px Calibri;
+	border: 1px solid #CC3300;
+    margin-left:27px;
+    margin-left:8px;
+	margin-right: 0;
+}
+.clsTxt_Numero {
+	font: 12px Calibri;
+	border: 1px solid #CC3300;
+	TEXT-ALIGN: right; 
+}
+
+.MaskedEditFocus
+{
+    font: 12px Calibri;
+    border: 1px solid #CCCCCC;
+    background-color: #CCFFFF;
+}
+.MaskedEditError
+{
+	font: 12px Calibri;
+	border: 1px solid #CCCCCC;
+	background-color: #C0C0C0;
+}
+    
+.clsMandatorio_Error
+{
+	font: 12px Calibri;
+	background-color: #F3F2F1;
+	border: 1px solid #CC3300;
+	text-align: right;
+	color: #FF0000;
+}
+
+.clsMandatorio
+{
+    border: 1px solid #0000FF;
+    padding: 0px 0px;
+    font: 12px "Trebuchet MS" , "Lucida Grande" , "Bitstream Vera Sans" , Arial, Helvetica, sans-serif;
+    background-color: #CCFFFF;
+    color: #0000FF;
+    cursor: text;
+    margin-left:8px;
+	margin-right:0;
+}
+.table_label_color_piel 
+{
+    border: 1px solid #666666;
+    background-color: #F3F2F1;
+    
+}
+
+.clsDisabled
+{
+	border: 1px solid #CC3300;
+	padding: 0px 0px;
+    font: 12px "Trebuchet MS" , "Lucida Grande" , "Bitstream Vera Sans" , Arial, Helvetica, sans-serif;
+	background-color: #DFDFDF;
+	color: #CC3300;
+	cursor: text;
+    margin-left:8px;
+	margin-right: 0;
+}
+
+
+.clsError
+{
+	background-color: #F3F2F1;
+	font: 12px Calibri;
+	border: 1px solid #CC3300;
+	color: #CC3300;
+	margin-bottom: 0;
+}
+
+.clsMandatorio1
+{
+    border: 1px solid #0000FF;
+    margin: 1px 1px 1px 2px;
+    padding: 0px 0px;
+    font: 11px "Trebuchet MS" , "Lucida Grande" , "Bitstream Vera Sans" , Arial, Helvetica, sans-serif;
+    background-color: #CCFFFF;
+    color: #0000FF;
+    cursor: text;
+    margin-left:8px;
+}
+
+.Cuadrado
+{
+	border-bottom: solid 1px #666666;
+	border-right: solid 1px #666666;
+	border-left: solid 1px #666666;
+	border-top: solid 1px #666666;
+	background-image: url(Imagenes/degrade.jpg);
+	background-repeat: repeat-x;
+}
+.toolbar
+{
+	font-size: 13px;
+	font-family: Verdana;
+	padding: 6px;
+	color: #333333;
+	filter: progid:dximagetransform.microsoft.gradient(gradienttype=0,startcolorstr=#ffffff,endcolorstr=Gainsboro);
+}
+
+.hovertoolbar
+{
+	font-size: 13px;
+	font-family: Verdana;
+	padding: 6px;
+	filter: progid:dximagetransform.microsoft.gradient(gradienttype=0,startcolorstr=#ffffff,endcolorstr=#c2dafa);
+	color: #660000;
+}
+
+
+
+ .sc_chat_box
+    {
+        font-family: arial;
+        border: solid 1px black;
+        padding: 1px;
+        font-size: 11px;
+        background-color: #ffffff;
+        text-align: left;
+    }  
+    
+  .dragMe
+{
+	width: 100%;
+	height: 21px;
+	background-color: #FFF;
+	filter: progid:dximagetransform.microsoft.gradient(gradienttype=0,startcolorstr=#ffffff,endcolorstr=#c2dafa); /*background-image:url(images/header-opened.png);*/
+	/*text-align: center;*/
+	cursor: hand;
+	font-weight: bold;
+}
+
+	.overflowHidden {overflow:hidden;}
+
+	.overflowScroll {overflow:hidden;}
+	
+	
+	
+.ColumnaOculta 
+{
+    display:none;
+}
+
+.ClickTable_Peso
+{
+	font-weight: normal;
+	font-size: 12px;
+	cursor: hand;
+	color: black;
+	line-height: normal;
+	font-style: normal;
+	font-family: Calibri;
+	background-color: #BEF781;
+}
+.ClickTable_Dolar
+{
+	font-weight: normal;
+	font-size: 12px;
+	cursor: hand;
+	color: black;
+	line-height: normal;
+	font-style: normal;
+	font-family: Calibri;
+	background-color: #F7BE81;
+}
+.ClickTable_Otro
+{
+	font-weight: normal;
+	font-size: 12px;
+	cursor: hand;
+	color: black;
+	line-height: normal;
+	font-style: normal;
+	font-family: Calibri;
+	background-color: #F3F781;
+}
+
+.FondoColorTitulo
+{
+    background:#999999;
+}
+
+
+.cabeceraGrilla
+{
+    padding:5px; 
+    text-align:center; 
+    color:#292929; 
+    font-size:80% !important; 
+    background-color:#D6E5F0;
+}
+/* Estilo Titulos Cabecera Tabla */
+.TitCabeceraTableDms 
+{	
+	background-color: #999999;	
+	color:#333333;
+	line-height: normal;	
+	font-family: Arial, Verdana,Helvetica, sans-serif; 
+	font-size: 12px; 
+	font-style: normal;
+	font-weight: bold;
+	width: 100%;
+	height: 30px;
+}
+
+ .PromptCSS
+{
+    color: #0000FF;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    background-color: #B7FFFF;
+    font-family: 10px "Trebuchet MS" , "Lucida Grande" , "Bitstream Vera Sans" , Arial, Helvetica, sans-serif;
+    border: 1px solid #0000FF;
+    height: 19px;
+}
+
+.panelprogress
+{
+    background-color: #FFFFFF;
+    border: 2px solid #0033CC;
+    z-index: 1000;
+    width: 250px;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+}

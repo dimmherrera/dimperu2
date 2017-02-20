@@ -1,0 +1,24 @@
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Release\dim.xml.dll
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Release\dim.xml.pdb
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Release\dim.datos.dll
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Release\dim.rutinas.dll
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Release\itextsharp.dll
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Release\dim.datos.pdb
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Release\dim.rutinas.pdb
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\obj\Release\ResolveAssemblyReference.cache
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\obj\Release\dim.xml.dll
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\obj\Release\dim.xml.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\obj\Release\ResolveAssemblyReference.cache
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\bin\Release\dim.xml.dll
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\bin\Release\dim.xml.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\bin\Release\dim.datos.dll
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\bin\Release\dim.rutinas.dll
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\bin\Release\dim.datos.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\bin\Release\dim.rutinas.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\obj\Release\dim.xml.dll
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\obj\Release\dim.xml.pdb
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\bin\Release\dim.xml.dll
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\bin\Release\dim.xml.pdb
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\obj\Release\ResolveAssemblyReference.cache
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\obj\Release\dim.xml.dll
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\obj\Release\dim.xml.pdb

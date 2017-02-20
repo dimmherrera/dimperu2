@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="FACTORConnectionString">
+      <rd:DataSourceID>1dd6b228-9bf3-4f02-b6cb-7185654c10da</rd:DataSourceID>
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <InteractiveHeight>29.7cm</InteractiveHeight>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>21cm</InteractiveWidth>
+  <rd:GridSpacing>0.25cm</rd:GridSpacing>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <RightMargin>2.5cm</RightMargin>
+  <LeftMargin>2.5cm</LeftMargin>
+  <BottomMargin>2.5cm</BottomMargin>
+  <rd:ReportID>aed4ef05-79ef-49f7-8dde-6d2cbb22fe9c</rd:ReportID>
+  <PageWidth>21cm</PageWidth>
+  <DataSets>
+    <DataSet Name="Data_Simulacion_Sp_Reporte_Simulación">
+      <Fields>
+        <Field Name="ope_dif_pre">
+          <DataField>ope_dif_pre</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_sal_pag">
+          <DataField>ope_sal_pag</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_imp_ope">
+          <DataField>ope_imp_ope</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_pre_com">
+          <DataField>ope_pre_com</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_sal_pen">
+          <DataField>ope_sal_pen</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_com_tot">
+          <DataField>ope_com_tot</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_int_dev">
+          <DataField>ope_int_dev</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_mon_gas">
+          <DataField>ope_mon_gas</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_can_doc">
+          <DataField>opn_can_doc</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_tas_bas">
+          <DataField>opn_tas_bas</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_fec">
+          <DataField>opn_fec</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="opn_cta_cte">
+          <DataField>opn_cta_cte</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="ope_iva_com">
+          <DataField>ope_iva_com</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_por_ant">
+          <DataField>opn_por_ant</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_por_com">
+          <DataField>opn_por_com</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_com_min">
+          <DataField>opn_com_min</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_com_max">
+          <DataField>opn_com_max</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_com_fla">
+          <DataField>opn_com_fla</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_com_fog">
+          <DataField>ope_com_fog</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_fec_sim">
+          <DataField>ope_fec_sim</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="ope_fog_ven">
+          <DataField>ope_fog_ven</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="cli_idc">
+          <DataField>cli_idc</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="opn_ant_014">
+          <DataField>opn_ant_014</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="cli_rso">
+          <DataField>cli_rso</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dig">
+          <DataField>dig</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="id_ope">
+          <DataField>id_ope</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_obs_sim">
+          <DataField>ope_obs_sim</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="for_pgo">
+          <DataField>for_pgo</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="ope_mto_ant">
+          <DataField>ope_mto_ant</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_mto_doc">
+          <DataField>opn_mto_doc</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_fev">
+          <DataField>ope_fev</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="id_P_0023">
+          <DataField>id_P_0023</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="id_p_0023_fla">
+          <DataField>id_p_0023_fla</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="ope_mto_scb">
+          <DataField>ope_mto_scb</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="factor_fla">
+          <DataField>factor_fla</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_fac_cam">
+          <DataField>ope_fac_cam</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="formato_moneda">
+          <DataField>formato_moneda</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="bco_des">
+          <DataField>bco_des</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="id_p_0012">
+          <DataField>id_p_0012</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="moneda">
+          <DataField>moneda</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Tipo_Ope">
+          <DataField>Tipo_Ope</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Tipo_Doc">
+          <DataField>Tipo_Doc</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="eje_nom">
+          <DataField>eje_nom</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="suc_nom">
+          <DataField>suc_nom</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="ope_tot_gir">
+          <DataField>ope_tot_gir</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="cnc_nom">
+          <DataField>cnc_nom</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="cnc_rut">
+          <DataField>cnc_rut</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="cnc_dig">
+          <DataField>cnc_dig</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>FACTORConnectionString</DataSourceName>
+        <CommandType>StoredProcedure</CommandType>
+        <CommandText>dbo.Sp_Reporte_Simulación</CommandText>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>Data_Simulacion</rd:DataSetName>
+        <rd:TableName>Sp_Reporte_Simulación</rd:TableName>
+        <rd:TableAdapterName>Sp_Reporte_SimulaciónTableAdapter</rd:TableAdapterName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Width>16cm</Width>
+  <Body>
+    <ColumnSpacing>1cm</ColumnSpacing>
+    <ReportItems>
+      <Line Name="line1">
+        <Top>6.5cm</Top>
+        <Width>5.26455cm</Width>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+        </Style>
+        <ZIndex>6</ZIndex>
+        <Left>0.25cm</Left>
+        <Height>0cm</Height>
+      </Line>
+      <Textbox Name="textbox23">
+        <Top>6.5cm</Top>
+        <Width>5.25cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <TextAlign>Center</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>5</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.5cm</Height>
+        <Value>Firma Representante Legal </Value>
+      </Textbox>
+      <Textbox Name="textbox22">
+        <Top>7cm</Top>
+        <Width>5.25cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <TextAlign>Center</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>4</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.5cm</Height>
+        <Value>=First(Fields!cnc_nom.Value, "Data_Simulacion_Sp_Reporte_Simulación")</Value>
+      </Textbox>
+      <Textbox Name="textbox21">
+        <Top>4.5cm</Top>
+        <Width>4.73482cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>3</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.5cm</Height>
+        <Value>=Format(CLng(First(Fields!cli_idc.Value, "Data_Simulacion_Sp_Reporte_Simulación"))) &amp; "-" &amp; First(Fields!dig.Value, "Data_Simulacion_Sp_Reporte_Simulación")</Value>
+      </Textbox>
+      <Textbox Name="textbox20">
+        <Top>4cm</Top>
+        <Width>4.73482cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>2</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.5cm</Height>
+        <Value>=First(Fields!cli_rso.Value, "Data_Simulacion_Sp_Reporte_Simulación")</Value>
+      </Textbox>
+      <Textbox Name="textbox1">
+        <Top>1.25cm</Top>
+        <Width>12.75cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>1</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.75cm</Left>
+        <Height>1.75cm</Height>
+        <Value>="El suscrito Representante legal de "  &amp; First(Fields!cnc_nom.Value, "Data_Simulacion_Sp_Reporte_Simulación") &amp; ", identificada con el NIT. " &amp; iif(First(Fields!cnc_rut.Value, "Data_Simulacion_Sp_Reporte_Simulación") &lt;= 0, "", Format(CLng(First(Fields!cnc_rut.Value, "Data_Simulacion_Sp_Reporte_Simulación")), "###,###,###")) &amp; "-" &amp; First(Fields!cnc_dig.Value, "Data_Simulacion_Sp_Reporte_Simulación") &amp; ", endosa en propiedad y con responsabilidad el presente título valor a favor de BBVA Colombia S.A. identificada con el NIT 860.003.020-1."</Value>
+      </Textbox>
+      <Textbox Name="textbox3">
+        <Top>0.25cm</Top>
+        <Width>6cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.5cm</Height>
+        <Value>Modelo 1: CON Recurso</Value>
+      </Textbox>
+    </ReportItems>
+    <Height>7.75cm</Height>
+  </Body>
+  <Language>es-ES</Language>
+  <TopMargin>2.5cm</TopMargin>
+  <PageHeight>29.7cm</PageHeight>
+</Report>

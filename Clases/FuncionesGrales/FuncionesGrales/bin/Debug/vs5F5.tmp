@@ -1,0 +1,202 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FuncionesGenerales
+</name>
+</assembly>
+<members>
+<member name="P:FuncionesGenerales.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:FuncionesGenerales.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:FuncionesGenerales.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:FuncionesGenerales.ConfigXml.GuardarAlAsignar">
+	<summary>
+ Indica si se se guardarán los datos cuando se añadan nuevos.
+ </summary>
+	<value>Indica si se se guardarán los datos cuando se añadan nuevos.</value>
+	<returns>Un valor verdadero o falso según el valor de la propiedad</returns>
+	<remarks></remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.GetValue(System.String,System.String)">
+	<summary>
+ Obtiene un valor de tipo cadena de la sección y clave indicadas.
+ </summary>
+	<param name="seccion">La sección de la que queremos obtener el valor</param>
+	<param name="clave">La clave de la que queremos recuperar el valor</param>
+	<returns>Un valor de tipo cadena con el valor de la sección y clave indicadas</returns>
+	<remarks>
+ Existe otra sobrecarga para indicar un valor predeterminado.
+ Tanbién hay otras dos sobrecargas para valores enteros y boolean.
+ </remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.GetValue(System.String,System.String,System.String)">
+	<summary>
+ Obtiene un valor de tipo cadena de la sección y clave indicadas.
+ </summary>
+	<param name="seccion">La sección de la que queremos obtener el valor</param>
+	<param name="clave">La clave de la que queremos recuperar el valor</param>
+	<param name="predeterminado">El valor predeterminado para cuando no exista.</param>
+	<returns>Un valor de tipo cadena con el valor de la sección y clave indicadas</returns>
+	<remarks></remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.GetValue(System.String,System.String,System.Int32)">
+	<summary>
+ Obtiene un valor de tipo entero de la sección y clave indicadas.
+ </summary>
+	<param name="seccion">La sección de la que queremos obtener el valor</param>
+	<param name="clave">La clave de la que queremos recuperar el valor</param>
+	<param name="predeterminado">El valor predeterminado para cuando no exista.</param>
+	<returns>Un valor de tipo entero con el valor de la sección y clave indicadas</returns>
+	<remarks></remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.GetValue(System.String,System.String,System.Boolean)">
+	<summary>
+ Obtiene un valor de tipo boolean de la sección y clave indicadas.
+ </summary>
+	<param name="seccion">La sección de la que queremos obtener el valor</param>
+	<param name="clave">La clave de la que queremos recuperar el valor</param>
+	<param name="predeterminado">El valor predeterminado para cuando no exista.</param>
+	<returns>Un valor de tipo boolean con el valor de la sección y clave indicadas</returns>
+	<remarks>Internamente el valor se guarda con un cero para False y uno para True</remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.SetValue(System.String,System.String,System.String)">
+	<summary>
+ Asignar un valor de tipo cadena en la sección y clave indicadas.
+ </summary>
+	<param name="seccion">La sección de la que queremos obtener el valor</param>
+	<param name="clave">La clave de la que queremos recuperar el valor</param>
+	<param name="valor">El valor a asignar</param>
+	<remarks>
+ El valor se guardar como un elemento de la sección indicada.
+ <seealso cref="M:FuncionesGenerales.ConfigXml.SetKeyValue(System.String,System.String,System.String)"/>
+	</remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.SetValue(System.String,System.String,System.Int32)">
+	<summary>
+ Asignar un valor de tipo entero en la sección y clave indicadas.
+ </summary>
+	<param name="seccion">La sección de la que queremos obtener el valor</param>
+	<param name="clave">La clave de la que queremos recuperar el valor</param>
+	<param name="valor">El valor a asignar</param>
+	<remarks>
+ El valor se guardar como un elemento de la sección indicada.
+ El valor siempre se guarda como un valor de cadena.
+ <seealso cref="M:FuncionesGenerales.ConfigXml.SetKeyValue(System.String,System.String,System.String)"/>
+	</remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.SetValue(System.String,System.String,System.Boolean)">
+	<summary>
+ Asignar un valor de tipo boolean en la sección y clave indicadas.
+ </summary>
+	<param name="seccion">La sección de la que queremos obtener el valor</param>
+	<param name="clave">La clave de la que queremos recuperar el valor</param>
+	<param name="valor">El valor a asignar</param>
+	<remarks>
+ El valor se guardar como un elemento de la sección indicada.
+ El valor siempre se guarda como un valor de cadena, siendo un 1 para True y 0 para False.
+ <seealso cref="M:FuncionesGenerales.ConfigXml.SetKeyValue(System.String,System.String,System.String)"/>
+	</remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.SetKeyValue(System.String,System.String,System.String)">
+	<summary>
+ Asigna un valor de tipo cadena en la sección y clave indicadas.
+ </summary>
+	<param name="seccion">La sección de la que queremos obtener el valor</param>
+	<param name="clave">La clave de la que queremos recuperar el valor</param>
+	<param name="valor">El valor a asignar</param>
+	<remarks>
+ El valor se guarda como un atributo de la sección indicada.
+ La clave se guarda con el atributo key y el valor con el atributo value.
+ <seealso cref="M:FuncionesGenerales.ConfigXml.SetValue(System.String,System.String,System.String)"/>
+	</remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.SetKeyValue(System.String,System.String,System.Int32)">
+	<summary>
+ Asigna un valor de tipo entero en la sección y clave indicadas.
+ </summary>
+	<param name="seccion">La sección de la que queremos obtener el valor</param>
+	<param name="clave">La clave de la que queremos recuperar el valor</param>
+	<param name="valor">El valor a asignar</param>
+	<remarks>
+ El valor se guarda como un atributo de la sección indicada.
+ La clave se guarda con el atributo key y el valor con el atributo value.
+ El valor siempre se guarda como un valor de cadena.
+ <seealso cref="M:FuncionesGenerales.ConfigXml.SetValue(System.String,System.String,System.String)"/>
+	</remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.SetKeyValue(System.String,System.String,System.Boolean)">
+	<summary>
+ Asigna un valor de tipo boolean en la sección y clave indicadas.
+ </summary>
+	<param name="seccion">La sección de la que queremos obtener el valor</param>
+	<param name="clave">La clave de la que queremos recuperar el valor</param>
+	<param name="valor">El valor a asignar</param>
+	<remarks>
+ El valor se guarda como un atributo de la sección indicada.
+ La clave se guarda con el atributo key y el valor con el atributo value.
+ El valor siempre se guarda como un valor de cadena, siendo un 1 para True y 0 para False.
+ <seealso cref="M:FuncionesGenerales.ConfigXml.SetValue(System.String,System.String,System.String)"/>
+	</remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.RemoveSection(System.String)">
+	<summary>
+ Elimina la sección indicada, aunque en realidad la deja vacía.
+ </summary>
+	<param name="seccion">La sección a eliminar.</param>
+	<remarks></remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.Save">
+	<summary>
+ Guardar el fichero de configuración.
+ </summary>
+	<remarks>
+ Si no se llama a este método, no se guardará de forma permanente.
+ Para guardar automáticamente al asignar,
+ asignar un valor verdadero a la propiedad <see cref="P:FuncionesGenerales.ConfigXml.GuardarAlAsignar">GuardarAlAsignar</see>
+	</remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.Read">
+	<summary>
+ Lee el fichero de configuración.
+ </summary>
+	<remarks>
+ Si no existe, se crea uno nuevo con los valores predeterminados.
+ </remarks>
+</member><member name="P:FuncionesGenerales.ConfigXml.FileName">
+	<summary>
+ El nombre del fichero de configuración.
+ </summary>
+	<value>El path completo con el nombre del fichero de configuración.</value>
+	<returns>Una cadena con el fichero de configuración.</returns>
+	<remarks>El nombre del fichero se debe indicar en el constructor.</remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.#ctor(System.String)">
+	<summary>
+ Constructor en el que indicamos el nombre del fichero de configuración.
+ </summary>
+	<param name="fic">El fichero a usar para guardar los datos de configuración.</param>
+	<remarks>
+ Si no existe, se creará.
+ Al usar este constructor, por defecto se guardarán los valores al asignarlos.
+ </remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.#ctor(System.String,System.Boolean)">
+	<summary>
+ Constructor en el que indicamos el nombre del fichero de configuración.
+ </summary>
+	<param name="fic">El fichero a usar para guardar los datos de configuración.</param>
+	<param name="guardarAlAsignar">
+ Un valor verdadero o falso para indicar
+ si se guardan los datos automáticamente al asignarlos.</param>
+	<remarks></remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.Secciones">
+	<summary>
+ Devuelve una colección de tipo List con las secciones del fichero de configuración.
+ </summary>
+	<returns>Una colección de tipo List(Of String) con las secciones del fichero de configuración.</returns>
+	<remarks>Este método solo se puede usar en la versión 2.0 o superior.</remarks>
+</member><member name="M:FuncionesGenerales.ConfigXml.Claves(System.String)">
+	<summary>
+ Devuelve una colección de tipo Dictionary con las claves y valores de la sección indicada.
+ </summary>
+	<param name="seccion">La sección de la que queremos obtener las claves y valores.</param>
+	<returns>Una colección de tipo Dictionary(Of String, String) con las claves y valores.</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

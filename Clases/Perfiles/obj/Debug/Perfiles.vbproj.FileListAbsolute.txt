@@ -1,0 +1,1202 @@
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\FactoringNet_20130107 QA-DIM\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\FactoringNet_20130107 QA-DIM\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\FactoringNet_20130107 QA-DIM\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\FactoringNet_20130107 QA-DIM\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\FactoringNet_20130107 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\FactoringNet_20130107 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\FactoringNet_20130107 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\FactoringNet_20130107 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\FactoringNet_20130107 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\Perfiles\bin\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\Perfiles\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.xml
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\Perfiles\obj\Debug\Perfiles.pdb
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\Perfiles\bin\Debug\Perfiles.dll
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\Perfiles\bin\Debug\Perfiles.pdb
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\Perfiles\bin\Debug\Perfiles.xml
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\Perfiles\obj\Debug\Perfiles.dll
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\Perfiles\obj\Debug\Perfiles.xml
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\Perfiles\obj\Debug\Perfiles.pdb
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\Perfiles\bin\Debug\Perfiles.dll
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\Perfiles\bin\Debug\Perfiles.pdb
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\Perfiles\bin\Debug\Perfiles.xml
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\Perfiles\obj\Debug\Perfiles.Resources.resources
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\Perfiles\obj\Debug\Perfiles.vbproj.GenerateResource.Cache
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\Perfiles\obj\Debug\Perfiles.dll
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\Perfiles\obj\Debug\Perfiles.xml
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\Perfiles\obj\Debug\Perfiles.pdb

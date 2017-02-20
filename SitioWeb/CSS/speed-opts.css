@@ -1,0 +1,56 @@
+/* hold div contains both scrolling content areas in this example */
+div#hold { 
+  position:relative; overflow:hidden;
+	width:240px; height:535px; z-index:100
+	}
+div#wn1	{ 
+	position:absolute; 
+	left:850px; top:92px; 
+	width:300px; height:50px; 
+	clip:rect(0px, 275px, 50px, 0px); 
+	overflow:hidden;	
+	z-index:1; 
+	}
+div.content1	{ 
+	position:absolute; 
+	left:850px; top:92px; width:200px; height:102px; 
+	z-index:1; 
+	}
+div.content	{ 
+	position:absolute; 
+	left:0px; top:0px;height:900px; 
+	z-index:1; 
+	}
+div#wn2	{ 
+	position:absolute; 
+	left:0px; top:0px; 
+	width:180px; height:535px; 
+	clip:rect(0px, 180px, 535px, 0px); 
+	overflow:hidden;	
+	z-index:2; 
+	}
+div#controles { 
+  position:absolute; left:0; top:70px; width:180px; z-index:3;
+  }
+div#controls2 { 
+  position:absolute; left:180px; top:200px;
+  width:14px; height:80px; z-index:4;
+  }
+div#up { position:absolute; left:0; top:0; z-index:1; }  
+div#down { position:absolute; left:0; bottom:0; z-index:2; }  
+
+/* Styles for demo, not necessary for scrolling layers */  
+body { 
+  overflow:hidden; 
+  font: 12px verdana, arial, helvetica, sans-serif;
+  }
+h1 { 
+  font-size:1.4em; 
+  margin:0 0 2em 0; 
+  }
+a:link { color:#33c }	
+a:visited { color:#339 }	
+img { border:none }
+div.content p { margin:.4em 0 }
+div#controls  { text-align:center }
+div#controls img { margin:0 1em }

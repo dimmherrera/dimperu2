@@ -1,0 +1,756 @@
+D:\Dimension\Facturacion Electronica\FUENTES\VS2008 10-05-2011 FALTA FIRMA\dim.xml\bin\Debug\dim.xml.dll
+D:\Dimension\Facturacion Electronica\FUENTES\VS2008 10-05-2011 FALTA FIRMA\dim.xml\bin\Debug\dim.xml.pdb
+D:\Dimension\Facturacion Electronica\FUENTES\VS2008 10-05-2011 FALTA FIRMA\dim.xml\bin\Debug\dim.datos.dll
+D:\Dimension\Facturacion Electronica\FUENTES\VS2008 10-05-2011 FALTA FIRMA\dim.xml\bin\Debug\dim.rutinas.dll
+D:\Dimension\Facturacion Electronica\FUENTES\VS2008 10-05-2011 FALTA FIRMA\dim.xml\bin\Debug\Fonet.dll
+D:\Dimension\Facturacion Electronica\FUENTES\VS2008 10-05-2011 FALTA FIRMA\dim.xml\bin\Debug\dim.datos.pdb
+D:\Dimension\Facturacion Electronica\FUENTES\VS2008 10-05-2011 FALTA FIRMA\dim.xml\bin\Debug\dim.rutinas.pdb
+D:\Dimension\Facturacion Electronica\FUENTES\VS2008 10-05-2011 FALTA FIRMA\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\Dimension\Facturacion Electronica\FUENTES\VS2008 10-05-2011 FALTA FIRMA\dim.xml\obj\Debug\dim.xml.dll
+D:\Dimension\Facturacion Electronica\FUENTES\VS2008 10-05-2011 FALTA FIRMA\dim.xml\obj\Debug\dim.xml.pdb
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Debug\dim.xml.dll
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Debug\dim.xml.pdb
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Debug\dim.datos.dll
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Debug\dim.rutinas.dll
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Debug\Fonet.dll
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Debug\itextsharp.dll
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Debug\dim.datos.pdb
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\bin\Debug\dim.rutinas.pdb
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\obj\Debug\dim.xml.dll
+D:\Dimension\Facturacion Electronica\VS2008\dim.xml\obj\Debug\dim.xml.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\bin\Debug\dim.xml.dll
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\bin\Debug\dim.xml.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\bin\Debug\dim.datos.dll
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\bin\Debug\dim.rutinas.dll
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\bin\Debug\dim.datos.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\bin\Debug\dim.rutinas.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\obj\Debug\dim.xml.dll
+D:\Dimension\Facturacion Electronica\Fuentes\Facturacion sin Administracion\dim.xml\obj\Debug\dim.xml.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\FacturacionElectronica\dim.xml\bin\Debug\dim.xml.dll
+D:\Dimension\Facturacion Electronica\Fuentes\FacturacionElectronica\dim.xml\bin\Debug\dim.xml.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\FacturacionElectronica\dim.xml\bin\Debug\dim.datos.dll
+D:\Dimension\Facturacion Electronica\Fuentes\FacturacionElectronica\dim.xml\bin\Debug\dim.rutinas.dll
+D:\Dimension\Facturacion Electronica\Fuentes\FacturacionElectronica\dim.xml\bin\Debug\dim.datos.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\FacturacionElectronica\dim.xml\bin\Debug\dim.rutinas.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\FacturacionElectronica\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\Dimension\Facturacion Electronica\Fuentes\FacturacionElectronica\dim.xml\obj\Debug\dim.xml.dll
+D:\Dimension\Facturacion Electronica\Fuentes\FacturacionElectronica\dim.xml\obj\Debug\dim.xml.pdb
+D:\Cesion_Facturacion\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.xml.dll
+D:\Cesion_Facturacion\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.xml.pdb
+D:\Cesion_Facturacion\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.datos.dll
+D:\Cesion_Facturacion\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.rutinas.dll
+D:\Cesion_Facturacion\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.datos.pdb
+D:\Cesion_Facturacion\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.rutinas.pdb
+D:\Cesion_Facturacion\Fuentes\ProyectosDeClases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\Cesion_Facturacion\Fuentes\ProyectosDeClases\dim.xml\obj\Debug\dim.xml.dll
+D:\Cesion_Facturacion\Fuentes\ProyectosDeClases\dim.xml\obj\Debug\dim.xml.pdb
+D:\Dimension\InterFactor\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.xml.dll
+D:\Dimension\InterFactor\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.xml.pdb
+D:\Dimension\InterFactor\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.datos.dll
+D:\Dimension\InterFactor\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.rutinas.dll
+D:\Dimension\InterFactor\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.datos.pdb
+D:\Dimension\InterFactor\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.rutinas.pdb
+D:\Dimension\InterFactor\Fuentes\ProyectosDeClases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\Dimension\InterFactor\Fuentes\ProyectosDeClases\dim.xml\obj\Debug\dim.xml.dll
+D:\Dimension\InterFactor\Fuentes\ProyectosDeClases\dim.xml\obj\Debug\dim.xml.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.xml.dll
+D:\Dimension\Facturacion Electronica\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.xml.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.datos.dll
+D:\Dimension\Facturacion Electronica\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.rutinas.dll
+D:\Dimension\Facturacion Electronica\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.datos.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\ProyectosDeClases\dim.xml\bin\Debug\dim.rutinas.pdb
+D:\Dimension\Facturacion Electronica\Fuentes\ProyectosDeClases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\Dimension\Facturacion Electronica\Fuentes\ProyectosDeClases\dim.xml\obj\Debug\dim.xml.dll
+D:\Dimension\Facturacion Electronica\Fuentes\ProyectosDeClases\dim.xml\obj\Debug\dim.xml.pdb
+D:\Dimension\FactoringNet\FUENTES\Emision de Cartas\dim.xml\bin\Debug\dim.xml.dll
+D:\Dimension\FactoringNet\FUENTES\Emision de Cartas\dim.xml\bin\Debug\dim.xml.pdb
+D:\Dimension\FactoringNet\FUENTES\Emision de Cartas\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\Dimension\FactoringNet\FUENTES\Emision de Cartas\dim.xml\obj\Debug\dim.xml.dll
+D:\Dimension\FactoringNet\FUENTES\Emision de Cartas\dim.xml\obj\Debug\dim.xml.pdb
+E:\DIM_CONTROL\INTERVALORES\Emision de Cartas\dim.xml\bin\Debug\dim.xml.dll
+E:\DIM_CONTROL\INTERVALORES\Emision de Cartas\dim.xml\bin\Debug\dim.xml.pdb
+E:\DIM_CONTROL\INTERVALORES\Emision de Cartas\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DIM_CONTROL\INTERVALORES\Emision de Cartas\dim.xml\obj\Debug\dim.xml.dll
+E:\DIM_CONTROL\INTERVALORES\Emision de Cartas\dim.xml\obj\Debug\dim.xml.pdb
+D:\Emision de Cartas\dim.xml\bin\Debug\dim.xml.dll
+D:\Emision de Cartas\dim.xml\bin\Debug\dim.xml.pdb
+D:\Emision de Cartas\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\Emision de Cartas\dim.xml\obj\Debug\dim.xml.dll
+D:\Emision de Cartas\dim.xml\obj\Debug\dim.xml.pdb
+D:\Factoringnet\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\Factoringnet\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\Factoringnet\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\Factoringnet\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\Factoringnet\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\Documents and Settings\shenriquez\Escritorio\Factoringnet\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES\Factoringnet\DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet20121010\FactoringNet\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121013\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121014\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121016\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121017\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121018\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121019\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121022\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121023 - noche\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121026\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\BBVA_COLOMBIA\FUENTES\FactoringNet\FactoringNet_20121030 antes de interes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121115 Sucursal en Negociacion\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121126\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121211\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121213 Linea de financiamiento DES\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora DES\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\Colombia\FUENTES DE PROYECTOS\1.- DESARROLLO\Factoringnet\FactoringNet_20121221 Dias Base Mora QA-DIM\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130107 QA-DIM\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\FactoringNet_20130107 QA-DIM\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\FactoringNet_20130107 QA-DIM\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\FactoringNet_20130107 QA-DIM\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\FactoringNet_20130107 QA-DIM\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\FactoringNet_20130107 QA-DIM\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130204 QA-DIM\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 DESARROLLO Cambios al 04-03-2013\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet_20130225 QA-DESARROLLO (04-03-2013)\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet 20130404 QA-DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\17-04-2013 DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet QA-DESARROLLO\18-04-2013 DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FactoringNet PRODUCCION\22-04-2013\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\23-04-2013\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\24-04-2013 DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\29-04-2013 DESARROLLO\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\03-05-2013 CALIDAD-BBVA OK\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING DESARROLLO\08-05-2013 CALIDAD-BBVA OK\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\Factoringnet\FACTORING PRODUCCION\21-06-2013 Contingencia tesoreria y linea\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 descuenta linea sin o con recurso y mora siempre se calcula\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\16-08-2013 sin o con recurso y mora siempre se calcula - copia\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\27-08-2013 egresos con aplicaciones\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\03-09-2013 carga masiva y anulacion de operaciones\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013 carga masiva, anulacion de operaciones y sustituciones\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\05-09-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\09-09-2013 entrega para el 11 INSTALADO\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\07-10-2013 cartera vig mora y busqueda doctos CONTI\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\CONTINGENCIA\19-11-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\19-11-2013 mejora pago de doctos\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\29-11-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013 spread mora y colocacion PENDIENTE\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\02-12-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\02-12-2013 OK\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\17-12-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\DESARROLLOS DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\FACTORING PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\PRODUCCION\1.- PRODUCCION\1. -DICIEMBRE\26-12-2013\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 26-12-2013 OK\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1. -DICIEMBRE\1.- 20-01-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ENERO\1.- 24-01-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\Users\jlagos\Desktop\Fuentes Produccion SH\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\11-03-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\13-03-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\13-03-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\PRODUCCION\20-03-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- MARZO\CONTINGENCIA\31-03-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- ABRIL\08-04-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\08-04-2014 CONTI\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\28-04-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- ABRIL\30-04-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\08-05-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\15-05-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\16-05-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- MAYO\26-05-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\05-06-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JUNIO\24-06-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\07-07-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- JULIO\21-07-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\05-08-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\14-08-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\0.- AGOSTO\26-08-2014 ALFA\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\24-09-2014\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\Users\shenriquez\Desktop\DTV - TEST JLAGOS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\3.- ALFANUMERICA\11-11-2014 PRODUCCION\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\11-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\NOVIEMBRE\25-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+I:\BBVA\FACTORING\NOVIEMBRE\28-11-2014 ALFANUMERICA\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\ASESORIAS CONTABLES\INCIDENCIA JLAGOS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+I:\BBVA\1.- FACTORING\CONTINGENCIA\03-02-2015 PAGOS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+I:\BBVA\1.- FACTORING\PRODUCCION\FEBRERO 2015\03-02-2015 PAGOS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\16-03-2015 PAGOS (interes a devolver)\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\MARZO\24-03-2015 APLICACION (CTA CTE)\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\09-04-2015 NOMINA DE EGRESO\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\1.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2015\ABRIL\22-04-2015 CALIDAD DE LA INFORMACION ALTAS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\2.- DESARROLLO\18-05-2015 TERRITORIALES\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JUNIO\12-06-2015 VB PRORROGAS\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\Users\olopez\Desktop\12-06-2015 LINEA FINACIAMIENTO\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\Users\olopez\Desktop\02-07-2015 LINEA FINACIAMIENTO\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\03-07-2015 LINEA FINACIAMIENTO DTV\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\07-07-2015 reporte anula operacion\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\DOCUMENTOS\TRASPASOS\DESAROLLOS_LINEA TRIANGULAR\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\DTV_linea_finaciamiento (10-07-2015)\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\10-07-2015\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- JULIO\15-07-2015 APLICACIONES CXP\Fuentes\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- AGOSTO\11-08-2015 VALIDA DOCTOS\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- SEPTIEMBRE\29-09-2015 VALIDA SIMULACION\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\1.- OCTUBRE\08-10-2015 VALIDA DSCTO SIM & OTO\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 REASIGNA ID_DOC POR PRORROGAS\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\11-11-2015 ID_DOC PRORROGAS\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 DUPLICACION DE PRORROGAS\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- NOVIEMBRE\23-11-2015 ANULA PRORROGAS\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\07-12-2015\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\1.- 2015\0.- DICIEMBRE\10-12-2015\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\paginacion prorroga factoring\10-12-2015\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\ticket 203 paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\Users\gnunez\Desktop\evidencias Tickets\Codigo gestor DTV paginacion prorroga factoring\10-12-2015 DTV EXPORTACION CSV\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\1- FEBRERO\03-03-2016 CODIGO GESTOR\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\dim.xml\bin\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\dim.xml\bin\Debug\dim.xml.pdb
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\dim.xml\obj\Debug\ResolveAssemblyReference.cache
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\dim.xml\obj\Debug\dim.xml.dll
+D:\1. -DESARROLLO DIMENSION\BBVA\1.- COLOMBIA\2.- FUENTES DE PROYECTOS\2.- FACTORING\1.- PRODUCCION\2.- 2016\2.- MARZO\07-03-2016 PRORROGAS\DTV\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\dim.xml\obj\Debug\dim.xml.csprojResolveAssemblyReference.cache
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\BRANCHES\DEMO\Clases\dim.xml\obj\Debug\dim.xml.pdb
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\dim.xml\bin\Debug\dim.xml.dll
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\dim.xml\bin\Debug\dim.xml.pdb
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\dim.xml\obj\Debug\dim.xml.csprojResolveAssemblyReference.cache
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\dim.xml\obj\Debug\dim.xml.dll
+E:\ULTIMOS FUENTES\BANCO FINANCIERO\DTV\TRUNK\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\dim.xml\obj\Debug\dim.xml.csprojResolveAssemblyReference.cache
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\Users\garellano\Desktop\Factoring Final\branches\Clases\dim.xml\obj\Debug\dim.xml.pdb
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\dim.xml\bin\Debug\dim.xml.dll
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\dim.xml\bin\Debug\dim.xml.pdb
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\dim.xml\obj\Debug\dim.xml.csprojResolveAssemblyReference.cache
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\dim.xml\obj\Debug\dim.xml.dll
+C:\Users\mherrera.MHERRERA1\Desktop\peru\Branches\08022017\Clases\dim.xml\obj\Debug\dim.xml.pdb

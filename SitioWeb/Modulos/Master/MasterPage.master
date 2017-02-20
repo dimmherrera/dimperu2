@@ -1,0 +1,251 @@
+<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="Modulos_Master_MasterPage" %>
+<%@ Register Src="../Web_Controles/Mensaje.ascx" TagName="Mensaje" TagPrefix="uc4" %>
+<%@ Register src="../../WebControles/Menu_Sup.ascx" tagname="Menu_Sup" tagprefix="uc1" %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    
+    <title>DESCUENTO TITULO VALOR</title>
+    
+    <script src="../../../js/jquery.js" type="text/javascript"></script>
+    <script src="../../../js/menu.js" type="text/javascript"></script>
+    <script src="../../../FuncionesJS/Ventanas.js" type="text/javascript"></script>
+    <script src="../../../FuncionesJS/Grilla.js" type="text/javascript"></script>
+    <script src="../../../FuncionesJS/Funciones.js" type="text/javascript"></script>
+    <link href="../../CSS/Estilos.css" rel="Stylesheet" type="text/css" />
+    <link href="../../CSS/radcalendar.css" rel="stylesheet" type="text/css" />
+   
+    <style type="text/css">
+        /* menu::base */
+            div#menu {
+                height:41px;
+                background:url(../../../images/main-bg.png) repeat-x;
+            }
+
+            div#menu ul {
+                margin: 0;
+                padding: 0;
+                list-style: none;
+                float: left;
+                
+            }
+            div#menu ul.menu {
+                padding-left: 30px;
+                
+            }
+
+            div#menu li {
+                position: relative;
+                z-index: 9;
+                margin: 0;
+                padding: 0 5px 0 0;
+                display: block;
+                float: left;
+                
+            }
+            div#menu li:hover>ul {
+                left: -2px;
+            }
+
+            div#menu a {
+                position: relative;
+                z-index: 10;
+                height: 41px;
+                display: block;
+                float: left;
+                line-height: 41px;
+                text-decoration: none;
+                font: normal 12px Trebuchet MS;
+            }
+            div#menu a:hover, div#menu a:hover span { color: #FFF9DA; }
+            div#menu li.current a {}
+
+            div#menu span {
+                display: block;
+                cursor: pointer;
+                background-repeat: no-repeat;
+                background-position: 95% 0;
+            }
+            div#menu ul ul a.parent span {
+                background-position:95% 8px;
+                background-image: url(../../../images/item-pointer.gif);
+            }
+            div#menu ul ul a.parent:hover span {
+                background-image: url(../../../images/item-pointer-mover.gif);
+            }
+
+            /* menu::level1 */
+            div#menu a {
+                padding: 0 10px 0 10px;
+                line-height: 30px;
+                color: #e5e5e5;
+            }
+            div#menu span {
+                margin-top: 5px;
+            }/**@replace#1*/
+            div#menu li { background: url(../../../images/main-delimiter.png) 98% 4px no-repeat; }
+            div#menu li.last { background: none; }
+
+            /* menu::level2 */
+            div#menu ul ul li { background: none; }
+            div#menu ul ul
+            {
+                background-position: rgb(255, 249, 218);
+                position: absolute;
+                top: 38px;
+                left: -999em;
+                width: 163px;
+                padding: 5px 0 0 0;
+                background: rgb(0, 95, 171);
+                margin-top: 1px;
+            }
+            div#menu ul ul a {
+                padding: 0 0 0 15px;
+                height: auto;
+                float: none;
+                display: block;
+                line-height: 24px;
+                color: rgb(255, 249, 218);
+            }
+            div#menu ul ul span {
+                margin-top: 0;
+                padding-right: 15px;
+                _padding-right: 20px;
+                color: rgb(255, 249, 218);
+            }
+            div#menu ul ul a:hover span {
+                color: #FFF9DA;
+            }
+            div#menu ul ul li.last { background: none; }
+            div#menu ul ul li {
+                width: 100%;
+            }
+
+            /* menu::level3 */
+            div#menu ul ul ul {
+                padding: 0;
+                margin: -38px 0 0 163px !important;
+                margin-left:172px;
+            }
+
+            /* colors */
+            div#menu ul ul ul { background: rgb(41,41,41); }
+            div#menu ul ul ul ul { background: rgb(38,38,38); }
+            div#menu ul ul ul ul { background: rgb(35,35,35); }
+
+            /* lava lamp */
+            div#menu li.back {
+                background: url(../../../images/lava.png) no-repeat right -44px !important;
+                background-image: url(../../../images/lava.gif);
+                width: 13px;
+                height: 44px;
+                z-index: 8;
+                position: absolute;
+                margin: -1px 0 0 -5px;
+            }
+            div#menu li.back .left {
+                background: url(../../../images/lava.png) no-repeat top left !important;
+                background-image: url(../../../images/lava.gif);
+                height: 44px;
+                margin-right: 8px;
+            }
+    </style>
+    
+    <style type="text/css">
+        *
+        {
+            margin: 0;
+            padding: 0;
+        }
+        body
+        {
+             background: #005FAB;
+        }
+        
+        div#menu
+        {
+            margin: 0px auto;
+        }
+        
+        div#copyright
+        {
+            font: 11px 'Trebuchet MS';
+            color: #222;
+            text-indent: 30px;
+            padding: 40px 0 0 0;
+        }
+        
+        div#copyright a
+        {
+            color: #aaa;
+        }
+        div#copyright a:hover
+        {
+            color: #222;
+        }
+        div#usuario
+        {
+            font: 11px 'Trebuchet MS';
+            color: #192B70;
+            padding: 0 30px 0 0;
+            text-align: right;
+        }
+        
+    </style>
+    
+</head>
+<body>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    if ($("body div:last")!= null)
+        $("body div:last").remove();
+    });
+    </script>
+    
+    <form id="form2" runat="server">
+    
+    <asp:ScriptManager ID="ScriptManager2" runat="server" EnableScriptGlobalization="true" AsyncPostBackTimeout="600">
+    </asp:ScriptManager>
+    
+    <script type="text/javascript" language="javascript">
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestHandler);
+        function EndRequestHandler(sender, args) {
+            if (args.get_error() != undefined) {
+                args.set_errorHandled(true);
+            }
+        }
+    </script>
+    
+    
+    <div id="principal" style="width: 100%; text-align: center">
+    
+        <div id="banner" style=" height: 130px; background-repeat: no-repeat;width:100%;">
+              <img src="../../../images/headBF.png" width="100%" height="130px" />
+              <div id="usuario" style="border-style: 1; position:absolute; top:90px; right:81px; text-align:left; line-height: normal; color: #FF0000;">
+                   <asp:Label ID="Lbl_Usuario" runat="server" Text="Usuario Conectado: "></asp:Label><br />
+                   <asp:Label ID="Lbl_Cargo" runat="server" Text="Cargo/Perfil: "></asp:Label> <br />
+                   <asp:Label ID="Lbl_Version" runat="server" 
+                       Text="Versión: 20160308.PRO.PRORROGA"></asp:Label>
+               </div>
+        </div>
+                
+        <div id="menu">
+            <uc1:Menu_Sup ID="Menu_Sup1" runat="server" />
+        </div>
+        
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        
+        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+            <ContentTemplate>
+                <uc4:Mensaje ID="Mensaje1" runat="server" />
+            </ContentTemplate>
+        </asp:UpdatePanel>
+        
+    </div>
+    
+    </form>
+    
+</body>
+</html>

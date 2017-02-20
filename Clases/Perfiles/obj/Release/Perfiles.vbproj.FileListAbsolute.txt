@@ -1,0 +1,9 @@
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\bin\Release\Perfiles.dll
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\bin\Release\Perfiles.pdb
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\bin\Release\Perfiles.xml
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Release\ResolveAssemblyReference.cache
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Release\Perfiles.Resources.resources
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Release\Perfiles.vbproj.GenerateResource.Cache
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Release\Perfiles.dll
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Release\Perfiles.xml
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\Perfiles\obj\Release\Perfiles.pdb

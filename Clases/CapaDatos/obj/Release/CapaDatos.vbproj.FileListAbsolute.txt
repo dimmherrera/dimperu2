@@ -1,0 +1,18 @@
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\bin\Release\CapaDatos.dll.config
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\bin\Release\CapaDatos.dll
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\bin\Release\CapaDatos.pdb
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\bin\Release\CapaDatos.xml
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\bin\Release\ClsSession.dll
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\bin\Release\FuncionesGenerales.dll
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\bin\Release\ClsSession.pdb
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\bin\Release\FuncionesGenerales.pdb
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\bin\Release\FuncionesGenerales.xml
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\obj\Release\ResolveAssemblyReference.cache
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\obj\Release\CapaDatos.Resources.resources
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\obj\Release\CapaDatos.vbproj.GenerateResource.Cache
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\obj\Release\CapaDatos.dll
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\obj\Release\CapaDatos.xml
+D:\Dimension\Factoringnet\Fuentes ultimos\Factoringnet\CapaDatos\obj\Release\CapaDatos.pdb
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\CapaDatos\obj\Release\ResolveAssemblyReference.cache
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\CapaDatos\obj\Release\CapaDatos.Resources.resources
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\CapaDatos\obj\Release\CapaDatos.vbproj.GenerateResource.Cache

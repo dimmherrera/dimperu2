@@ -1,0 +1,44 @@
+﻿
+#FirefoxFix div#<%=ReportViewer1.UniqueID.ToString.Replace("$","_")%>oReportDiv table tr td {width:auto !important;}
+
+#FirefoxFix div#<%=ReportViewer1.UniqueID.ToString.Replace("$","_")%>oReportDiv table {width:100% !important;}
+
+#FirefoxFix div#<%=ReportViewer1.UniqueID.ToString.Replace("$","_")%>oReportDiv table tr td {word-wrap:normal !important;}
+
+#ReportNavigation {background:#EEEEEE;text-align:right;}
+
+#<%=PNLReportViewer.UniqueID.ToString.Replace("$","_")%> {padding-bottom:30px;}
+
+#<%=ReportViewer1.UniqueID.ToString.Replace("$","_")%>_ctl01 {position:absolute;bottom:-30px;right:0px;border:1px solid #CCCCCC;width:100%;}
+
+#<%=ReportViewer1.UniqueID.ToString.Replace("$","_")%>_ctl01 table {float:right;}
+
+#FirefoxFix {position:relative;z-index:0;}
+
+/* Fix left navigation so it appears above the report */
+
+div#navigation ul {z-index:10;}
+
+<!--[if IE]>
+
+
+#FirefoxFix div {width:100% !important;}
+
+/*#FirefoxFix td img {display:block;float:left;}*/
+
+#FirefoxFix td#ctl00_ContentPlaceHolder1_ReportViewer1_ReportViewer1oReportCell {width:auto !important;}
+
+#FirefoxFix td#ctl00_ContentPlaceHolder1_ReportViewer1_ReportViewer1oReportCell table tr td table tr td {width:auto !important;}
+
+#FirefoxFix td#ctl00_ContentPlaceHolder1_ReportViewer1_ReportViewer1oReportCell table tr td table {width:100% !important;}
+
+#<%=PNLReportViewer.UniqueID.ToString.Replace("$","_")%> {padding-bottom:30px;}
+
+#<%=ReportViewer1.UniqueID.ToString.Replace("$","_")%>_ctl01 {position:absolute;bottom:0px;right:0px;border:1px solid #CCCCCC;width:100%;}
+
+#<%=ReportViewer1.UniqueID.ToString.Replace("$","_")%>_ctl01 table {float:right;}
+
+#FirefoxFix {position:relative;z-index:0;}
+
+
+<![endif]-->

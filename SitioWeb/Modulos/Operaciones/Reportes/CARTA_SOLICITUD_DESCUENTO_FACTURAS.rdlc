@@ -1,0 +1,993 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="FACTORConnectionString">
+      <rd:DataSourceID>2117e13f-e9d4-4b79-88f0-6d90934193e7</rd:DataSourceID>
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <InteractiveHeight>29.7cm</InteractiveHeight>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>21cm</InteractiveWidth>
+  <rd:GridSpacing>0.25cm</rd:GridSpacing>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <RightMargin>2.5cm</RightMargin>
+  <LeftMargin>2.5cm</LeftMargin>
+  <BottomMargin>2.5cm</BottomMargin>
+  <rd:ReportID>dbbdd083-ae41-4bb9-9818-a870abe6d40c</rd:ReportID>
+  <PageWidth>21cm</PageWidth>
+  <DataSets>
+    <DataSet Name="Data_Dsi_Sp_Reporte_Simulación_Doc">
+      <Fields>
+        <Field Name="dsi_num">
+          <DataField>dsi_num</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="deu_ide">
+          <DataField>deu_ide</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dsi_fev">
+          <DataField>dsi_fev</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="deu_rso">
+          <DataField>deu_rso</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dsi_ctd_dia">
+          <DataField>dsi_ctd_dia</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="dsi_mto">
+          <DataField>dsi_mto</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="dsi_mto_ant">
+          <DataField>dsi_mto_ant</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="dsi_dif_pre">
+          <DataField>dsi_dif_pre</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="dsi_cms">
+          <DataField>dsi_cms</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="dsi_sal_pen">
+          <DataField>dsi_sal_pen</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="dsi_sal_pag">
+          <DataField>dsi_sal_pag</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="dsi_ntf">
+          <DataField>dsi_ntf</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dsi_cbz">
+          <DataField>dsi_cbz</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="pal_des">
+          <DataField>pal_des</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="dig_deu">
+          <DataField>dig_deu</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="mto_com">
+          <DataField>mto_com</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="comi_real">
+          <DataField>comi_real</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="dsi_flj_num">
+          <DataField>dsi_flj_num</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>FACTORConnectionString</DataSourceName>
+        <CommandType>StoredProcedure</CommandType>
+        <CommandText>Sp_Reporte_Simulación_Doc</CommandText>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>Data_Dsi</rd:DataSetName>
+        <rd:TableName>Sp_Reporte_Simulación_Doc</rd:TableName>
+        <rd:TableAdapterName>Sp_Reporte_Simulación_DocTableAdapter</rd:TableAdapterName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+      </rd:DataSetInfo>
+    </DataSet>
+    <DataSet Name="Data_Simulacion_Sp_Reporte_Simulación">
+      <Fields>
+        <Field Name="ope_dif_pre">
+          <DataField>ope_dif_pre</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_sal_pag">
+          <DataField>ope_sal_pag</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_pre_com">
+          <DataField>ope_pre_com</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_sal_pen">
+          <DataField>ope_sal_pen</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_com_tot">
+          <DataField>ope_com_tot</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_int_dev">
+          <DataField>ope_int_dev</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_mon_gas">
+          <DataField>ope_mon_gas</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_fog_ven">
+          <DataField>ope_fog_ven</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="cli_idc">
+          <DataField>cli_idc</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="cli_rso">
+          <DataField>cli_rso</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="id_ope">
+          <DataField>id_ope</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_mto_ant">
+          <DataField>ope_mto_ant</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_tas_bas">
+          <DataField>opn_tas_bas</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_mto_doc">
+          <DataField>opn_mto_doc</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_fev">
+          <DataField>ope_fev</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="dig">
+          <DataField>dig</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="opn_can_doc">
+          <DataField>opn_can_doc</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_fec">
+          <DataField>opn_fec</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="opn_por_ant">
+          <DataField>opn_por_ant</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_fec_sim">
+          <DataField>ope_fec_sim</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="moneda">
+          <DataField>moneda</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Tipo_Ope">
+          <DataField>Tipo_Ope</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="ope_imp_ope">
+          <DataField>ope_imp_ope</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="Tipo_Doc">
+          <DataField>Tipo_Doc</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="ope_obs_sim">
+          <DataField>ope_obs_sim</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="opn_cta_cte">
+          <DataField>opn_cta_cte</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="ope_com_fog">
+          <DataField>ope_com_fog</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_ant_014">
+          <DataField>opn_ant_014</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="for_pgo">
+          <DataField>for_pgo</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="opn_por_com">
+          <DataField>opn_por_com</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_com_fla">
+          <DataField>opn_com_fla</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_com_min">
+          <DataField>opn_com_min</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="opn_com_max">
+          <DataField>opn_com_max</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_iva_com">
+          <DataField>ope_iva_com</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="bco_des">
+          <DataField>bco_des</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="eje_nom">
+          <DataField>eje_nom</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="suc_nom">
+          <DataField>suc_nom</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="formato_moneda">
+          <DataField>formato_moneda</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="id_P_0023">
+          <DataField>id_P_0023</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="id_p_0023_fla">
+          <DataField>id_p_0023_fla</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="ope_mto_scb">
+          <DataField>ope_mto_scb</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="factor_fla">
+          <DataField>factor_fla</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="ope_fac_cam">
+          <DataField>ope_fac_cam</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="id_p_0012">
+          <DataField>id_p_0012</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="ope_tot_gir">
+          <DataField>ope_tot_gir</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
+        <Field Name="cnc_nom">
+          <DataField>cnc_nom</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>FACTORConnectionString</DataSourceName>
+        <CommandType>StoredProcedure</CommandType>
+        <CommandText>dbo.Sp_Reporte_Simulación</CommandText>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>Data_Simulacion</rd:DataSetName>
+        <rd:TableName>Sp_Reporte_Simulación</rd:TableName>
+        <rd:TableAdapterName>Sp_Reporte_SimulaciónTableAdapter</rd:TableAdapterName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Width>20.16cm</Width>
+  <Body>
+    <ColumnSpacing>1cm</ColumnSpacing>
+    <ReportItems>
+      <Line Name="line1">
+        <Top>11cm</Top>
+        <Width>5.26455cm</Width>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+        </Style>
+        <ZIndex>11</ZIndex>
+        <Left>0.25cm</Left>
+        <Height>0cm</Height>
+      </Line>
+      <Textbox Name="textbox23">
+        <Top>11.5cm</Top>
+        <Width>5.25cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <TextAlign>Center</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>10</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.5cm</Height>
+        <Value>Representante Legal </Value>
+      </Textbox>
+      <Textbox Name="textbox22">
+        <Top>11cm</Top>
+        <Width>5.25cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <TextAlign>Center</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>9</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.5cm</Height>
+        <Value>=First(Fields!cnc_nom.Value, "Data_Simulacion_Sp_Reporte_Simulación")</Value>
+      </Textbox>
+      <Textbox Name="textbox21">
+        <Top>8.5cm</Top>
+        <Width>4.73482cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>8</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.5cm</Height>
+        <Value>=Format(CLng(First(Fields!cli_idc.Value, "Data_Simulacion_Sp_Reporte_Simulación")), "###,###,###") &amp; "-" &amp; First(Fields!dig.Value, "Data_Simulacion_Sp_Reporte_Simulación")</Value>
+      </Textbox>
+      <Textbox Name="textbox20">
+        <Top>8cm</Top>
+        <Width>4.73482cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>7</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.5cm</Height>
+        <Value>=First(Fields!cli_rso.Value, "Data_Simulacion_Sp_Reporte_Simulación")</Value>
+      </Textbox>
+      <Table Name="table2">
+        <ZIndex>6</ZIndex>
+        <DataSetName>Data_Dsi_Sp_Reporte_Simulación_Doc</DataSetName>
+        <Top>6.5cm</Top>
+        <Width>13.22267cm</Width>
+        <Details>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox8">
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <TextAlign>Center</TextAlign>
+                      </Style>
+                      <ZIndex>10</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Sum(Fields!dsi_num.Value, "Data_Dsi_Sp_Reporte_Simulación_Doc")</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox9">
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <TextAlign>Center</TextAlign>
+                      </Style>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox10">
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                      </Style>
+                      <ZIndex>9</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox11">
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <TextAlign>Right</TextAlign>
+                      </Style>
+                      <ZIndex>7</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.4cm</Height>
+            </TableRow>
+          </TableRows>
+        </Details>
+        <Header>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox12">
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                      </Style>
+                      <ZIndex>36</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Abono en cta. Corriente No.</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox13">
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                      </Style>
+                      <CanGrow>true</CanGrow>
+                      <Value>Abono en cuenta de ahorros
+No.
+</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox14">
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                      </Style>
+                      <ZIndex>35</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Cheque a favor de</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox15">
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                      </Style>
+                      <ZIndex>33</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Transferencia ACH</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.5cm</Height>
+            </TableRow>
+          </TableRows>
+        </Header>
+        <TableColumns>
+          <TableColumn>
+            <Width>2.5cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>3.5cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>3.75cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>3.47267cm</Width>
+          </TableColumn>
+        </TableColumns>
+        <Height>1.15cm</Height>
+        <Footer>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox16">
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                        <TextAlign>Right</TextAlign>
+                      </Style>
+                      <ZIndex>23</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Total:</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox17">
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                      </Style>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox18">
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                      </Style>
+                      <ZIndex>22</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox19">
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                        <TextAlign>Right</TextAlign>
+                      </Style>
+                      <ZIndex>20</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.25cm</Height>
+            </TableRow>
+          </TableRows>
+        </Footer>
+        <Left>1.25cm</Left>
+      </Table>
+      <Textbox Name="textbox7">
+        <Top>5.75cm</Top>
+        <Width>9.12963cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>5</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.5cm</Height>
+        <Value>El producto de este descuento debe ser pagado Así:</Value>
+      </Textbox>
+      <Table Name="table1">
+        <ZIndex>4</ZIndex>
+        <DataSetName>Data_Dsi_Sp_Reporte_Simulación_Doc</DataSetName>
+        <Top>4.175cm</Top>
+        <Width>9.40115cm</Width>
+        <Details>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox87">
+                      <rd:DefaultName>textbox87</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <TextAlign>Center</TextAlign>
+                      </Style>
+                      <ZIndex>10</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=iif(Fields!dsi_flj_num.Value&lt;&gt;0,Fields!dsi_num.Value &amp; "-" &amp;Fields!dsi_flj_num.Value,Fields!dsi_num.Value)</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox5">
+                      <rd:DefaultName>textbox5</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <TextAlign>Center</TextAlign>
+                      </Style>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox88">
+                      <rd:DefaultName>textbox88</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                      </Style>
+                      <ZIndex>9</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=format(Fields!dsi_fev.Value,"dd/MM/yyyy")</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox76">
+                      <rd:DefaultName>textbox76</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <TextAlign>Right</TextAlign>
+                      </Style>
+                      <ZIndex>7</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=format(Fields!dsi_mto.Value, "###,###,###")</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.4cm</Height>
+            </TableRow>
+          </TableRows>
+        </Details>
+        <Header>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox84">
+                      <rd:DefaultName>textbox84</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                      </Style>
+                      <ZIndex>36</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Factura No</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox4">
+                      <rd:DefaultName>textbox4</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                      </Style>
+                      <CanGrow>true</CanGrow>
+                      <Value>Expedición</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox85">
+                      <rd:DefaultName>textbox85</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                      </Style>
+                      <ZIndex>35</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Vencimiento  Real</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox75">
+                      <rd:DefaultName>textbox75</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Solid</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                      </Style>
+                      <ZIndex>33</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Vr. Base del descuento</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.5cm</Height>
+            </TableRow>
+          </TableRows>
+        </Header>
+        <TableColumns>
+          <TableColumn>
+            <Width>2.19767cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>2.19767cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>2.07558cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>2.93023cm</Width>
+          </TableColumn>
+        </TableColumns>
+        <Height>1.15cm</Height>
+        <Footer>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox79">
+                      <rd:DefaultName>textbox79</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                        <TextAlign>Right</TextAlign>
+                      </Style>
+                      <ZIndex>23</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Total:</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox6">
+                      <rd:DefaultName>textbox6</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                      </Style>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox80">
+                      <rd:DefaultName>textbox80</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>6pt</FontSize>
+                        <FontWeight>600</FontWeight>
+                      </Style>
+                      <ZIndex>22</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox25">
+                      <rd:DefaultName>textbox25</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.25cm</Height>
+            </TableRow>
+          </TableRows>
+        </Footer>
+        <Left>3.75cm</Left>
+      </Table>
+      <Textbox Name="textbox3">
+        <Top>3.5cm</Top>
+        <Width>9.12963cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>3</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.5cm</Height>
+        <Value>Relación de Facturas a descontar.</Value>
+      </Textbox>
+      <Textbox Name="textbox2">
+        <Top>1.75cm</Top>
+        <Width>9.12963cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>2</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>1.375cm</Height>
+        <Value>Señores 
+BBVA COLOMBIA 
+At. 
+</Value>
+      </Textbox>
+      <Textbox Name="textbox1">
+        <Top>1.25cm</Top>
+        <Width>9.12963cm</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>1</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.5cm</Height>
+        <Value>="Ciudad y " &amp; " " &amp; format(now(), "dd MMMM yyyy")</Value>
+      </Textbox>
+      <Textbox Name="textbox40">
+        <Top>0.25cm</Top>
+        <Width>11.75926cm</Width>
+        <Style>
+          <FontSize>12pt</FontSize>
+          <FontWeight>600</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Left>0.25cm</Left>
+        <Height>0.75cm</Height>
+        <Value>CARTA DE SOLICITUD DE DESCUENTO DE FACTURAS</Value>
+      </Textbox>
+    </ReportItems>
+    <Height>12.75cm</Height>
+  </Body>
+  <Language>es-ES</Language>
+  <TopMargin>2.5cm</TopMargin>
+  <PageHeight>29.7cm</PageHeight>
+</Report>

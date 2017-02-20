@@ -1,0 +1,15 @@
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\bin\Release\CapaDatos.dll.config
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\bin\Release\CapaDatos.dll
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\bin\Release\CapaDatos.pdb
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\bin\Release\CapaDatos.xml
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\bin\Release\ClsSession.dll
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\bin\Release\FuncionesGenerales.dll
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\bin\Release\ClsSession.pdb
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\bin\Release\FuncionesGenerales.pdb
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\bin\Release\FuncionesGenerales.xml
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\obj\Release\CapaDatos.Resources.resources
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\obj\Release\CapaNegocio.vbproj.GenerateResource.Cache
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\obj\Release\CapaDatos.dll
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\obj\Release\CapaDatos.xml
+I:\Dimension\Factoringnet sin control de fuentes\ClassLibrary1\obj\Release\CapaDatos.pdb

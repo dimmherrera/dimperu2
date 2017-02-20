@@ -1,0 +1,30 @@
+I:\FactoringNet\ClsSession\bin\ClsSession.dll
+I:\FactoringNet\ClsSession\bin\FacWebCiti.xml
+I:\FactoringNet\ClsSession\obj\Release\ResolveAssemblyReference.cache
+I:\FactoringNet\ClsSession\obj\Release\ClsSession.dll
+I:\FactoringNet\ClsSession\obj\Release\FacWebCiti.xml
+I:\Dimension\Factoringnet sin control de fuentes\Factoringnet\ClsSession\bin\ClsSession.dll
+I:\Dimension\Factoringnet sin control de fuentes\Factoringnet\ClsSession\bin\FacWebCiti.xml
+I:\Dimension\Factoringnet sin control de fuentes\Factoringnet\ClsSession\obj\Release\ResolveAssemblyReference.cache
+I:\Dimension\Factoringnet sin control de fuentes\Factoringnet\ClsSession\obj\Release\ClsSession.dll
+I:\Dimension\Factoringnet sin control de fuentes\Factoringnet\ClsSession\obj\Release\FacWebCiti.xml
+E:\Dimension\Factoringnet\ClsSession\bin\ClsSession.dll
+E:\Dimension\Factoringnet\ClsSession\bin\FacWebCiti.xml
+E:\Dimension\Factoringnet\ClsSession\obj\Release\ResolveAssemblyReference.cache
+E:\Dimension\Factoringnet\ClsSession\obj\Release\ClsSession.dll
+E:\Dimension\Factoringnet\ClsSession\obj\Release\FacWebCiti.xml
+D:\Dimension\Factoringnet\Fuentes Antonio\Factoringnet\ClsSession\bin\ClsSession.dll
+D:\Dimension\Factoringnet\Fuentes Antonio\Factoringnet\ClsSession\bin\FacWebCiti.xml
+D:\Dimension\Factoringnet\Fuentes Antonio\Factoringnet\ClsSession\obj\Release\ResolveAssemblyReference.cache
+D:\Dimension\Factoringnet\Fuentes Antonio\Factoringnet\ClsSession\obj\Release\ClsSession.dll
+D:\Dimension\Factoringnet\Fuentes Antonio\Factoringnet\ClsSession\obj\Release\FacWebCiti.xml
+D:\Dimension\Factoringnet\Fuentes con Mejoras de C.Arce\Factoringnet\ClsSession\bin\ClsSession.dll
+D:\Dimension\Factoringnet\Fuentes con Mejoras de C.Arce\Factoringnet\ClsSession\bin\FacWebCiti.xml
+D:\Dimension\Factoringnet\Fuentes con Mejoras de C.Arce\Factoringnet\ClsSession\obj\Release\ResolveAssemblyReference.cache
+D:\Dimension\Factoringnet\Fuentes con Mejoras de C.Arce\Factoringnet\ClsSession\obj\Release\ClsSession.dll
+D:\Dimension\Factoringnet\Fuentes con Mejoras de C.Arce\Factoringnet\ClsSession\obj\Release\FacWebCiti.xml
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\ClsSession\bin\ClsSession.dll
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\ClsSession\bin\FacWebCiti.xml
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\ClsSession\obj\Release\ResolveAssemblyReference.cache
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\ClsSession\obj\Release\ClsSession.dll
+E:\Traspaso\jlagos\FACTORING PRODUCCION - copia\14-08-2013 Contingencia 2 pagos el mismo dia al docto\Clases\ClsSession\obj\Release\FacWebCiti.xml
